@@ -1,6 +1,6 @@
 # MCP-DEMO using Cursor
 
-This is a demonstration repository created using GitHub's API through the MCP (Multi-Cloud Platform) interface.
+This is a demonstration repository created using GitHub's API through the MCP (Model Context Protocol) interface.
 
 ## About
 
