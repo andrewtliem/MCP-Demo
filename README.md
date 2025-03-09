@@ -1,4 +1,4 @@
-# MCP-Demo
+# MCP-DEMO
 
 This is a demonstration repository created using GitHub's API through the MCP (Multi-Cloud Platform) interface.
 
